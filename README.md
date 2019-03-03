@@ -1,5 +1,5 @@
 # Comutational_Methods
-Computational Methods is a course designed to improve your understanding of numerical algorithms and techniques and how they can be effectively implemented to solve complex mathematical and biomedical problems.  In this course you will learn:
+Computational Methods is a course designed to improve your understanding of numerical algorithms and techniques and how they can be effectively implemented to solve complex mathematical and biomedical problems.  Topics covered include:
 
 - Concepts of Coding and algorithm development
 - Concepts of Optimization and Root Finding
